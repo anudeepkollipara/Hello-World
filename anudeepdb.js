@@ -1,6 +1,6 @@
 var document = {
-    name  : "anudeep"
+    name  : "Sundeep"
 };
 for(var i =0; i<15; i++){
-        db.test2db.insert(document);
+        db.Employee.insert(document);
 }
